@@ -1,1 +1,1 @@
-I’ve learned how to clone GitHub repositories, make commits locally, and push changes using Git.
+What I have learned from this course is how to properly use Git to collaborate, make commits, and push changes to GitHub.
